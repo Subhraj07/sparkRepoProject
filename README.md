@@ -16,6 +16,7 @@ The dataset uses u.data and u.item file for lookup puposes. There are some comme
 Broadcast_for_school.py <br>
 https://data.sfgov.org/Economy-and-Community/Schools/tpp3-epx2 and <br>
 https://data.sfgov.org/Economy-and-Community/Registered-Business-Locations-San-Francisco/g8m3-pdis`
+https://data.sfgov.org/widgets/g8m3-pdis
 
 sparkSQL.py<br>
 Using FakeFriends.csv The data is not mine, but i will be using this as a base model to analyze some open data from San Francisco. <br>
